@@ -1,4 +1,4 @@
-# SmartHandSanitizer
+# Smart Hand Sanitizer
 
 ## Description:
 This repository contains the code and documentation for a smart hand sanitizer system. The system is designed to provide an automated and touchless hand sanitizing experience using Arduino Uno and different sensors.
