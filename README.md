@@ -4,17 +4,10 @@
 This repository contains the code and documentation for a smart hand sanitizer system. The system is designed to provide an automated and touchless hand sanitizing experience using Arduino Uno and different sensors.
 
 ## Table of Contents:
+1.Introduction
+2.Hardware Requirements
+3.Circuit Diagram
 
-Introduction
-Hardware Requirements
-Circuit Diagram
-Installation
-Usage
-Sensors and Actuators
-Data Collection
-Troubleshooting
-Contributing
-License
 Introduction:
 Provide an introduction to the smart hand sanitizer system, explaining its purpose, benefits, and how it works. You can also include an overview of the technologies used in the system.
 
